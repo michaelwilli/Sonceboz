@@ -7,6 +7,8 @@
 * @hardware NucleoF446RE
 *******************************************************************************/
 
+//TEST
+
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f4xx.h"
 #include <stdio.h>									// Includes Standard Library für C
