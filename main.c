@@ -1,13 +1,11 @@
 /******************************************************************************
 * @file			main.c
 * @brief		Project Sonceboz_Motion_Control
-* @author		BFH-TI / riedm1
+* @author		BFH-TI / willm1 / schma8
 * @version	2.0
 * @date			29.05.2017
 * @hardware NucleoF446RE
 *******************************************************************************/
-
-//TEST
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f4xx.h"
